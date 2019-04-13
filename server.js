@@ -9,7 +9,7 @@ var expressHandlebars = require("express-handlebars");
 var bodyParser = require("body-parser");
 
 //1.port to host designated port or 3000
-var PORT = process.env.PORT || 3001;
+var PORT = process.env.PORT || 3000;
 
 //1.initiate the express app
 var app = express()

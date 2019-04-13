@@ -18,12 +18,15 @@
   "homepage": "https://github.com/evg7393/websitescraper#readme",
   "dependencies": {
     "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
     "handlebars": "^4.1.1",
+    "mongodb": "file:node_modules/mongodb",
     "mongojs": "^2.6.0",
     "mongoose": "^5.5.1",
+    "nodejs-latest": "^1.1.0",
     "request": "^2.88.0"
   }
 }

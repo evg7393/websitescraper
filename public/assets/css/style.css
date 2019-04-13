@@ -3,8 +3,9 @@ html {
     min-height: 100%;
 }
 body {
-    margin-bottom: 50px;
-    background-image: ("/public/assets/images/newyorker.png")
+    margin-bottom: 80px;
+    background-image: url ("./images/newyorker");
+    background-color: #2f8bc0
 }
 .footer {
     position: absolute;
