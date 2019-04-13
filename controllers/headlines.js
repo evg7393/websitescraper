@@ -37,6 +37,5 @@ module.exports = {
            Headline.update({_id: query._id}, {
                $set: query
            },{}, cb);
-           }
-       }  
-  }
+        }
+     }  
